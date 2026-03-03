@@ -1,13 +1,13 @@
 Project Title:Hematovision:An Advanced Blood cells classification using Transfer Learning.
-Team ID : LTVIP2025TMID59555
+Team ID : LTVIP2026TMIDS65904
 
 Team Size : 4
 
-Team Leader : Sadam Venkata Sai Chandra Sekhar
+Team Leader : Veeranki Nandini
 
-Team member : Nalimeedi Rohan Leo Sri Harsha
+Team member : Ande Yagnesh
 
-Team member : Murikipudi Manoj Kumar
+Team member : Chebrolu Padmavathi
 
-Team member : Nuthi Raja Rajeswari
+Team member : Dachepalli Nikhitha
 
